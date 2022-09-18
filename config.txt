@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "0f557ea3601205a1234a1742a9dfc46f",
 # 模板消息id
-"template_id": "uZ5G9eipuCTIdR5GEdLoWXC7B7h9eFIXpyNgY6Exn-0",
+"template_id": "GakJIIYtShQVEgoTo4c7gZhQ0lFo7W72-Madt3uIxxc",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oKGT86tuTRrdcCOM2OutimMIIEM8","oKGT86kYuSs-MxkmJObbaLCuaS7s","oKGT86mz3r5OzZ2-n9_dSWqMRVRo","oKGT86mC9RV6sQsPXy60TQpHAXzg","oKGT86tgstlOvUD9DUK2OEGTCfzg"],
 
@@ -14,11 +14,9 @@
 "weather_key": "3cfe672c96dc412783c2ced0ebda3888",
 # 天行数据apikey
 "tian_api": "b7ebe0a1f3ab9dd3f08b6bf003538bdd",
-"region": "武汉",
+"region": "长沙",
 # 生日1
 "birthday1": {"name": "zhh", "birthday": "2001-08-09"},
-# 生日2
-"birthday2": {"name": "lxx", "birthday": "2000-11-16"},
 # 在一起的日子，格式同上
 "love_date": "2020-08-19",
 # 金句中文，如果为空，默认会读取金山的每日金句
