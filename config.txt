@@ -12,6 +12,8 @@
 # 信息配置
 # 和风天气apikey
 "weather_key": "3cfe672c96dc412783c2ced0ebda3888",
+# 天行数据apikey
+"tian_api": "b7ebe0a1f3ab9dd3f08b6bf003538bdd",
 "region": "武汉",
 # 生日1
 "birthday1": {"name": "九霄揭日月", "birthday": "2001-08-09"},
